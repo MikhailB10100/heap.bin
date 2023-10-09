@@ -1,0 +1,19 @@
+# IDEs and editors
+.idea
+.project
+.classpath
+.c9
+*.launch
+.settings
+*.sublime-workspace
+
+# OS
+.DS_Store
+
+# miscellaneous
+tmp
+temp
+
+# languages: TypeScript/JavaScript
+node_modules
+
