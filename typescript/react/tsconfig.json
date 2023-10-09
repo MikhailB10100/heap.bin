@@ -1,5 +1,5 @@
 {
-  "include": ["packages/**/*", "./.eslintrc.json"],
+  "include": ["collections/**/*", "./.eslintrc.json"],
   "exclude": ["node_modules"],
   "compilerOptions": {
     "target": "es2020",
@@ -17,6 +17,6 @@
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react-jsx",
-    "baseUrl": "./packages"
+    "baseUrl": "./collections"
   }
 }
